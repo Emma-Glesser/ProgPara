@@ -19,6 +19,7 @@ Command :
     nbThreads is optionnal, it specifies the number of threads to use when parallelisation is performed
 
 Example : 
+
     ./radixsort 10 10 input.txt output.txt
     N=10 Size=10 Threads=1 Time_in_microsec=81
     4 1 0 6 6 3 1 10 6 2 
